@@ -4,7 +4,7 @@
 
 RESTful web service that identifies collinear points in a 2D space.
 
-#Requirements
+# Requirements
 - Java 17
 - Maven 3.8.1+
 # API Endpoints
